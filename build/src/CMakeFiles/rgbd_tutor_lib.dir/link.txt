@@ -1,0 +1,2 @@
+/usr/bin/ar qc librgbd_tutor_lib.a  CMakeFiles/rgbd_tutor_lib.dir/orb.cpp.o CMakeFiles/rgbd_tutor_lib.dir/parameter_reader.cpp.o CMakeFiles/rgbd_tutor_lib.dir/rgbdframe.cpp.o
+/usr/bin/ranlib librgbd_tutor_lib.a
